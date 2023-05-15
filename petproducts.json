@@ -1,4 +1,5 @@
-{"petproducts: [
+{
+  "petproducts: [
   {
     "id": "petItem1",
     "name": "Pedigree Dog",
