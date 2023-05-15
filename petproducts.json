@@ -1,11 +1,10 @@
-{
-  "petproducts: [
+[
   {
     "id": "petItem1",
     "name": "Pedigree Dog",
     "price": 29.99,
     "company": "Pedigree",
-    "image": "https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image": "https://i.pinimg.com/564x/bf/5a/14/bf5a14f71be6a6f2f10e086b3e3d0454.jpg",
     "description": "A bag of high-quality dog food that provides complete and balanced nutrition for adult dogs.",
     "category": "Dog",
     "shipping": true,
@@ -27,7 +26,7 @@
     "price": 9.99,
     "company": "Milk-Bone",
     "colors": ["#8B4513", "#FFFFFF"],
-    "image": "https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image": "https://i.pinimg.com/564x/ed/c2/3b/edc23b23a6538a31db30cacd6caacda6.jpg",
     "description": "A box of dog treats that are made with real chicken and beef and are great for training or rewarding your dog.",
     "category": "Dog",
     "shipping": true,
@@ -50,7 +49,7 @@
     "price": 11.99,
     "company": "KONG",
     "colors": ["#FFD700", "#FFFFFF"],
-    "image": "https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image": "https://i.pinimg.com/564x/ce/46/ec/ce46ec68e330c810aa0d0441ff0fbacc.jpg",
     "description": "A durable and chew-resistant dog toy that is great for playing fetch or keeping your dog entertained.",
     "category": "Dog",
     "shipping": true,
@@ -226,6 +225,5 @@
     "category": "Dog",
     "shipping": true
   }
-  
+
 ]
-}
